@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&duration=4000\&pause=500\&color=F7F7F7\&width=435\&lines=%3EOi%2C+eu+sou+o+Pablo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&letterSpacing=&duration=4000&pause=500&color=F7F7F7&width=435&lines=%3EOi%2C+eu+sou+o+Pablo!;%3EAlways+learning.)](https://git.io/typing-svg)
 
 ## 👨‍💻 Sobre mim
 
